@@ -1,0 +1,8 @@
+{
+  "name": "Team22Blank",
+  "app_id": "81e3c6e9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
